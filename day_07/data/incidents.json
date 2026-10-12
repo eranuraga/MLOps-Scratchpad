@@ -1,0 +1,32 @@
+[
+    {
+        "service": "payment-api",
+        "severity": "P1",
+        "status": "OPEN"
+    },
+    {
+        "service": "orders-api",
+        "severity": "P2",
+        "status": "RESOLVED"
+    },
+    {
+        "service": "inventory-api",
+        "severity": "P3",
+        "status": "OPEN"
+    },
+    {
+        "service": "health-api",
+        "severity": "P3",
+        "status": "OPEN"
+    },
+    {
+        "service": "checkout-api",
+        "severity": "P2",
+        "status": "RESOLVED"
+    },
+    {
+        "service": "test-api",
+        "severity": "P3",
+        "status": "OPEN"
+    }
+]

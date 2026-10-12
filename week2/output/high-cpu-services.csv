@@ -1,0 +1,4 @@
+service,team,cpu,memory,status
+payment-api,payments,82,71,UP
+inventory-api,platform,91,84,UP
+auth-api,platform,75,68,UP

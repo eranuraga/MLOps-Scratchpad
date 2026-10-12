@@ -1,0 +1,4 @@
+payment-api: HEALTHY
+orders-api: WARNING
+inventory-api: CRITICAL
+billing-api: HEALTHY

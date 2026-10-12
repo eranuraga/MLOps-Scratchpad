@@ -1,0 +1,6 @@
+,service,team,cpu,memory,status,cpu_fraction
+0,payment-api,payments,82,71,UP,0.82
+1,orders-api,commerce,55,60,DOWN,0.55
+2,inventory-api,platform,91,84,UP,0.91
+3,billing-api,payments,67,52,UP,0.67
+4,auth-api,platform,75,68,UP,0.75
